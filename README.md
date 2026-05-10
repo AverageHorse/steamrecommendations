@@ -757,3 +757,4 @@
 ###### https://store.steampowered.com/app/2461280/Lessaria_Fantasy_Kingdom_Sim/
 ###### https://store.steampowered.com/app/2657930/Erannorth_Renaissance/
 ###### https://store.steampowered.com/app/3796960/Elemental_Reforged/
+###### https://store.steampowered.com/app/2206210/GYLT/
