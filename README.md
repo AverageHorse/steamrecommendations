@@ -761,3 +761,5 @@
 ###### https://store.steampowered.com/app/2830030/MOTORSLICE/
 ###### https://store.steampowered.com/app/3418990/_/
 ###### https://store.steampowered.com/app/4078200/Dwarf_Eats_Mountain/
+###### https://store.steampowered.com/app/3542380/Rune_Dice/
+###### https://store.steampowered.com/app/4078200/Dwarf_Eats_Mountain/
