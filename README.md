@@ -762,3 +762,9 @@
 ###### https://store.steampowered.com/app/3418990/_/
 ###### https://store.steampowered.com/app/4078200/Dwarf_Eats_Mountain/
 ###### https://store.steampowered.com/app/3542380/Rune_Dice/
+###### https://store.steampowered.com/app/2091020/Blades_of_Fire
+###### https://store.steampowered.com/app/1507720/Marchen_Forest
+###### https://store.steampowered.com/app/1866300/Dawn_Apart
+###### https://store.steampowered.com/app/3690030/The_Last_Gas_Station
+###### https://store.steampowered.com/app/3041230/Windrose
+###### https://store.steampowered.com/app/3057670/Pluto
