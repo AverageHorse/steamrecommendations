@@ -771,4 +771,5 @@
 ###### https://store.steampowered.com/app/1933000/Luna_Abyss/
 ###### https://store.steampowered.com/app/2735580/Netherworld_Covenant/
 ###### https://store.steampowered.com/app/4135750/FEED_THE_QUEEN/
+###### https://store.steampowered.com/app/2186990/Fatekeeper/
 ###### https://store.steampowered.com/app/2597080/Realm_of_Ink/
