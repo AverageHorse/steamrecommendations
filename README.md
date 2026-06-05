@@ -773,3 +773,4 @@
 ###### https://store.steampowered.com/app/4135750/FEED_THE_QUEEN/
 ###### https://store.steampowered.com/app/2186990/Fatekeeper/
 ###### https://store.steampowered.com/app/2597080/Realm_of_Ink/
+###### https://store.steampowered.com/app/563840/LOST_EMBER/
