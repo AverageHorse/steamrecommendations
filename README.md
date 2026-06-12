@@ -777,3 +777,10 @@
 ###### https://store.steampowered.com/app/3709430/Witchs_Apocalyptic_Journey/
 ###### https://store.steampowered.com/app/2958790/Cyclopean_The_Great_Abyss/
 ###### https://store.steampowered.com/app/3833760/You_Know_The_Drill/
+###### https://store.steampowered.com/app/1116050/Starminer/
+###### https://store.steampowered.com/app/3115220/Town_to_City/
+###### https://store.steampowered.com/app/2904040/Cheap_Car_Repair/
+###### https://store.steampowered.com/app/1933000/Luna_Abyss
+###### https://store.steampowered.com/app/1875580/Mina_the_Hollower/
+###### https://store.steampowered.com/app/3833760/You_Know_The_Drill/
+###### https://store.steampowered.com/app/4135750/FEED_THE_QUEEN/
