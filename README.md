@@ -786,3 +786,4 @@
 ###### https://store.steampowered.com/app/4135750/FEED_THE_QUEEN/
 ###### https://store.steampowered.com/app/3337380/Tabletop_Tavern/
 ###### https://store.steampowered.com/app/1369700/Solar_Expanse__Space_Exploration_Manager/
+###### https://store.steampowered.com/app/2226430/CraftCraft_Fantasy_Merchant_Simulator/
