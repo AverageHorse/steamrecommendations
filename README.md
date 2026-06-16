@@ -789,3 +789,4 @@
 ###### https://store.steampowered.com/app/2226430/CraftCraft_Fantasy_Merchant_Simulator/
 ###### https://store.steampowered.com/app/4064510/MOLE/
 ###### https://store.steampowered.com/app/3133060/Gnomes/
+###### https://store.steampowered.com/app/661790/Witch_Hunt/
