@@ -788,3 +788,4 @@
 ###### https://store.steampowered.com/app/4064510/MOLE/
 ###### https://store.steampowered.com/app/3133060/Gnomes/
 ###### https://store.steampowered.com/app/661790/Witch_Hunt/
+###### https://store.steampowered.com/app/2004640/Svarogs_Dream/
