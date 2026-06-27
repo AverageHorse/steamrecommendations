@@ -789,3 +789,5 @@
 ###### https://store.steampowered.com/app/3133060/Gnomes/
 ###### https://store.steampowered.com/app/661790/Witch_Hunt/
 ###### https://store.steampowered.com/app/2004640/Svarogs_Dream/
+###### https://store.steampowered.com/app/2275440/Solar_Nations_2/
+###### https://store.steampowered.com/app/2414270/Sunderfolk/
