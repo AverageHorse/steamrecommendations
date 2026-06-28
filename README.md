@@ -791,3 +791,4 @@
 ###### https://store.steampowered.com/app/2004640/Svarogs_Dream/
 ###### https://store.steampowered.com/app/2275440/Solar_Nations_2/
 ###### https://store.steampowered.com/app/2414270/Sunderfolk/
+###### https://store.steampowered.com/app/3156770/Witchfire/
