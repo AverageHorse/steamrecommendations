@@ -792,3 +792,4 @@
 ###### https://store.steampowered.com/app/2275440/Solar_Nations_2/
 ###### https://store.steampowered.com/app/2414270/Sunderfolk/
 ###### https://store.steampowered.com/app/3156770/Witchfire/
+###### https://store.steampowered.com/app/1716310/Awaken__Astral_Blade/
