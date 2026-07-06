@@ -794,3 +794,4 @@
 ###### https://store.steampowered.com/app/3156770/Witchfire/
 ###### https://store.steampowered.com/app/1716310/Awaken__Astral_Blade/
 ###### https://store.steampowered.com/app/1910680/Orb_of_Creation/
+###### https://store.steampowered.com/app/1812450/Bellwright/
