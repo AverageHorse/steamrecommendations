@@ -805,3 +805,6 @@
 ###### https://store.steampowered.com/app/2288470/Aethermancer/
 ###### https://store.steampowered.com/app/4380490/Cat_Mail_Co/
 ###### https://store.steampowered.com/app/367270/Angels_Fall_First/
+###### https://store.steampowered.com/app/2209900/Moonlight_Peaks/
+###### https://store.steampowered.com/app/3722660/Cosmodrill/
+###### https://store.steampowered.com/app/4049910/Nuclear_Epoch/
