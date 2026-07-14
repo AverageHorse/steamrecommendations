@@ -810,3 +810,4 @@
 ###### https://store.steampowered.com/app/4049910/Nuclear_Epoch/
 ###### https://store.steampowered.com/app/3213120/Machinefall/
 ###### https://store.steampowered.com/app/1330430/Celestial_Empire/
+###### https://store.steampowered.com/app/2517220/ENTITY_THE_BLACK_DAY/
