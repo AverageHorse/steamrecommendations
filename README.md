@@ -818,3 +818,4 @@
 ###### https://store.steampowered.com/app/3722330/Shift_At_Midnight/
 ###### https://store.steampowered.com/app/2186990/Fatekeeper/
 ###### https://store.steampowered.com/app/1790930/Crisol_Theater_of_Idols/
+###### https://store.steampowered.com/app/3116700/Reap_and_Rush/
