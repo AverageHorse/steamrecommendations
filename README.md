@@ -817,4 +817,3 @@
 ###### https://store.steampowered.com/app/2056210/LONESTAR/
 ###### https://store.steampowered.com/app/3722330/Shift_At_Midnight/
 ###### https://store.steampowered.com/app/2186990/Fatekeeper/
-###### https://store.steampowered.com/app/2680010/The_First_Berserker_Khazan/
