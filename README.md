@@ -821,3 +821,6 @@
 ###### https://store.steampowered.com/app/3116700/Reap_and_Rush/
 ###### https://store.steampowered.com/app/651500/My_Memory_of_Us/
 ###### https://store.steampowered.com/app/3843520/The_Temple_of_Elemental_Evil/
+###### https://store.steampowered.com/app/1368140/Corsair_Cove/
+###### https://store.steampowered.com/app/2436940/Sephiria/
+###### https://store.steampowered.com/app/1714510/Kusan_City_of_Wolves/
