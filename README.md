@@ -826,3 +826,10 @@
 ###### https://store.steampowered.com/app/1714510/Kusan_City_of_Wolves/
 ###### https://store.steampowered.com/app/2208350/Total_Chaos/
 ###### https://store.steampowered.com/app/2001760/Beast_of_Reincarnation/
+###### https://store.steampowered.com/app/4078110/Suncraft/
+###### https://store.steampowered.com/app/3997240/Osta/
+###### https://store.steampowered.com/app/4160880/Ember_Seeker/
+###### https://store.steampowered.com/app/3432480/Shards_of_Order/
+###### https://store.steampowered.com/app/951770/Forsaken_Realms_Vahrins_Call/
+###### https://store.steampowered.com/app/3440070/Dinoblade/
+###### https://store.steampowered.com/app/931060/Tormentum_II/
