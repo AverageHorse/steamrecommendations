@@ -835,4 +835,5 @@
 ###### https://store.steampowered.com/app/931060/Tormentum_II/
 ###### https://store.steampowered.com/app/2950790/IRON_NEST_Heavy_Turret_Simulator/
 ###### https://store.steampowered.com/app/2426120/Concubine/
-https://store.steampowered.com/app/1259840/The_House_of_Da_Vinci_2/
+###### https://store.steampowered.com/app/1259840/The_House_of_Da_Vinci_2/
+###### https://store.steampowered.com/app/1442520/Akatori/
