@@ -839,3 +839,4 @@
 ###### https://store.steampowered.com/app/1442520/Akatori/
 ###### https://store.steampowered.com/app/4927490/Cleaning_Up_The_Puzzle_Gallery/
 ###### https://store.steampowered.com/app/3568280/Star_Haul_Tycoon/
+###### https://store.steampowered.com/app/4931430/Logic_Foundry/
