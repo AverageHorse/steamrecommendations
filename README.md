@@ -840,3 +840,8 @@
 ###### https://store.steampowered.com/app/4927490/Cleaning_Up_The_Puzzle_Gallery/
 ###### https://store.steampowered.com/app/3568280/Star_Haul_Tycoon/
 ###### https://store.steampowered.com/app/4931430/Logic_Foundry/
+###### https://store.steampowered.com/app/4377370/Gargadusas_Tower/
+###### https://store.steampowered.com/app/3978250/Sector_Space/
+###### https://store.steampowered.com/app/1533680/Dead_Grid/
+###### https://store.steampowered.com/app/1782460/Hell_Clock/
+###### https://store.steampowered.com/app/3144340/Cult_of_PiN/
