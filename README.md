@@ -847,3 +847,4 @@
 ###### https://store.steampowered.com/app/3144340/Cult_of_PiN/
 ###### https://store.steampowered.com/app/2513490/HELL_GALAXY/
 ###### https://store.steampowered.com/app/4164790/Survival_Log/
+###### https://store.steampowered.com/app/3423990/Frozen_Ship/
