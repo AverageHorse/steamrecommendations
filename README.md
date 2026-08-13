@@ -845,3 +845,5 @@
 ###### https://store.steampowered.com/app/1533680/Dead_Grid/
 ###### https://store.steampowered.com/app/1782460/Hell_Clock/
 ###### https://store.steampowered.com/app/3144340/Cult_of_PiN/
+###### https://store.steampowered.com/app/2513490/HELL_GALAXY/
+###### https://store.steampowered.com/app/4164790/Survival_Log/
