@@ -851,3 +851,5 @@
 ###### https://store.steampowered.com/app/2542020/Duskfade/
 ###### https://store.steampowered.com/app/4246860/Security_51/
 ###### https://store.steampowered.com/app/1939100/Go_Home_Annie_An_SCP_Game/
+###### https://store.steampowered.com/app/4042160/Static_Dread_The_Submarine/
+###### https://store.steampowered.com/app/3091140/Lootbound/
