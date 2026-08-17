@@ -854,3 +854,4 @@
 ###### https://store.steampowered.com/app/4042160/Static_Dread_The_Submarine/
 ###### https://store.steampowered.com/app/3091140/Lootbound/
 ###### https://store.steampowered.com/app/2226430/CraftCraft_Fantasy_Merchant_Simulator/
+###### https://store.steampowered.com/app/2584270/Mortal_Shell_II/
