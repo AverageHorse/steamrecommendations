@@ -856,3 +856,4 @@
 ###### https://store.steampowered.com/app/2226430/CraftCraft_Fantasy_Merchant_Simulator/
 ###### https://store.steampowered.com/app/2584270/Mortal_Shell_II/
 ###### https://store.steampowered.com/app/4317690/Crimson_Moon/
+###### https://store.steampowered.com/app/3849000/The_Lantern_of_the_Laughless_Saint/
