@@ -866,3 +866,7 @@
 ###### https://store.steampowered.com/app/1299290/Somber_Echoes/
 ###### https://store.steampowered.com/app/4423580/_/
 ###### https://store.steampowered.com/app/3751260/The_Blood_of_Dawnwalker/
+###### https://store.steampowered.com/app/1864690/Veterum/
+###### https://store.steampowered.com/app/3302080/Effulgence_RPG/
+###### https://store.steampowered.com/app/1890310/Rogue_Blight/
+###### https://store.steampowered.com/app/3560110/Fracture_Point/
