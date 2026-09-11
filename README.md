@@ -874,3 +874,5 @@
 ###### https://store.steampowered.com/app/2798330/Dungeon_Settlers/
 ###### https://store.steampowered.com/app/3711050/BeaterCore/
 ###### https://store.steampowered.com/app/1091870/Theropods/
+###### https://store.steampowered.com/app/3195440/Welcome_to_Elderfield/
+###### https://store.steampowered.com/app/3271280/Shroom_and_Gloom/
