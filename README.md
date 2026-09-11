@@ -877,3 +877,4 @@
 ###### https://store.steampowered.com/app/3195440/Welcome_to_Elderfield/
 ###### https://store.steampowered.com/app/3271280/Shroom_and_Gloom/
 ###### https://store.steampowered.com/app/3302080/Effulgence_RPG/
+###### https://store.steampowered.com/app/394220/Last_Horizon/
