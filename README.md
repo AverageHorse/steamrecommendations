@@ -888,3 +888,7 @@
 ###### https://store.steampowered.com/app/2280060/Tenebris_Terra_Incognita/
 ###### https://store.steampowered.com/app/4146760/Apocalypter/
 ###### https://store.steampowered.com/app/3510740/Normal_Golf_Game/
+###### https://store.steampowered.com/app/2067820/RetroSpace/
+###### https://store.steampowered.com/app/1706510/Songs_of_Glimmerwick/
+###### https://store.steampowered.com/app/1488490/Nivalis_Nights/
+###### https://store.steampowered.com/app/4358690/Graveyard_Keeper_2/
