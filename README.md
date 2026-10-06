@@ -892,3 +892,4 @@
 ###### https://store.steampowered.com/app/1706510/Songs_of_Glimmerwick/
 ###### https://store.steampowered.com/app/1488490/Nivalis_Nights/
 ###### https://store.steampowered.com/app/4358690/Graveyard_Keeper_2/
+###### https://store.steampowered.com/app/3205380/Omelet_You_Cook/
