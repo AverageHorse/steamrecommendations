@@ -896,3 +896,4 @@
 ###### https://store.steampowered.com/app/4358430/DarkRay/
 ###### https://store.steampowered.com/app/2895680/Below_Rusted_Gods/
 ###### https://store.steampowered.com/app/1266430/_Lost_In_Fantaland/
+###### https://store.steampowered.com/app/1605850/ZeroSpace/
