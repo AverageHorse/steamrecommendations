@@ -895,3 +895,4 @@
 ###### https://store.steampowered.com/app/3205380/Omelet_You_Cook/
 ###### https://store.steampowered.com/app/4358430/DarkRay/
 ###### https://store.steampowered.com/app/2895680/Below_Rusted_Gods/
+###### https://store.steampowered.com/app/1266430/_Lost_In_Fantaland/
