@@ -898,3 +898,4 @@
 ###### https://store.steampowered.com/app/1266430/_Lost_In_Fantaland/
 ###### https://store.steampowered.com/app/1605850/ZeroSpace/
 ###### https://store.steampowered.com/app/3523750/Down_with_the_Ship/
+###### https://store.steampowered.com/app/3784030/RACCOIN_Coin_Pusher_Roguelike/
