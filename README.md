@@ -901,3 +901,4 @@
 ###### https://store.steampowered.com/app/3784030/RACCOIN_Coin_Pusher_Roguelike/
 ###### https://store.steampowered.com/app/2501600/DICEOMANCER/
 ###### https://store.steampowered.com/app/4681880/Dragon_Kisser/
+###### https://store.steampowered.com/app/1710820/Cleared_Hot/
