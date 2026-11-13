@@ -907,3 +907,4 @@
 ###### https://store.steampowered.com/app/2411200/Underkeep/
 ###### https://store.steampowered.com/app/4576490/Casualties_Unknown/
 ###### https://store.steampowered.com/app/3629430/DREADMOOR/
+###### https://store.steampowered.com/app/1374680/Hazard_Levels/
