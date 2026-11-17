@@ -910,3 +910,4 @@
 ###### https://store.steampowered.com/app/1374680/Hazard_Levels/
 ###### https://store.steampowered.com/app/3699590/Well_Dweller/
 ###### https://store.steampowered.com/app/2057760/Esoteric_Ebb/
+###### https://store.steampowered.com/app/1799840/Queens_Domain/
